@@ -1,2 +1,2 @@
 Hello
-    This document was push over VSCode terminal
+    This document was updated over VSCode 
